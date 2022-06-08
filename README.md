@@ -1,4 +1,4 @@
-# furry-computing-machine
+# hexaclock
 A simple clock JS app that tells the time and shows colors in hex.
 
 ## Why did I make this?
