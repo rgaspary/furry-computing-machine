@@ -7,4 +7,4 @@ Honestly, I was bored and just wanted to build something.
 
 ## Where can I see it in action?
 
-I'm glad you asked. The code is working live [here](https://rgaspary.github.io/furry-computing-machine/)
+I'm glad you asked. The code is working live [here](https://rgaspary.github.io/hexaclock/)
